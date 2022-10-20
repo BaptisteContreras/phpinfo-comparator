@@ -1,0 +1,22 @@
+{
+  "name": "phpinfo-comparator",
+  "version": "1.0.0",
+  "description": "Phpinfo script comparator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaptisteContreras/phpinfo-comparator.git"
+  },
+  "author": "Baptiste CONTRERAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaptisteContreras/phpinfo-comparator/issues"
+  },
+  "homepage": "https://github.com/BaptisteContreras/phpinfo-comparator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
